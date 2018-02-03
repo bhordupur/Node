@@ -35,7 +35,7 @@ require('./routes')(app);
 
 // Google Calendar:
 var clientID = "139393676124-6n6io89dqq37ros4c1jckai93k4l5a4l.apps.googleusercontent.com";
-var clientSecret = "djvnX0Y43LLIkuqSJiINr-Fz";
+var clientSecret = "secret key here";
 
 app.listen(8080);
 console.log('Listening on port 8080...');
